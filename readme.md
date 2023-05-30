@@ -9,8 +9,7 @@
 ```$ sudo systemctl status ssh``` - проверяю<br />
 новое окно консоли<br />
 ```$ python3 -m http.server``` - распакова модуля http.server<br />
-![SCREENSHOT](https://github.com/magistrmittil/lab11/blob/master/Снимок экрана_2023-05-19_18-07-51.png](https://github.com/magistrmittil/lab11/blob/master/Снимок экрана_2023-05-19_18-07-51.png)
-новое окно консоли<br />
+![Image alt](https://github.com/magistrmittil/lab11/blob/master/SCREENSHOT.png)
 ```$ nano index.html``` - создаю<br />
 ```$ ngrok tcp 22``` - запускаю TCP туннель<br />
 ![Снимок экрана от 2023-05-04 17-47-52](https://user-images.githubusercontent.com/75660322/236249116-1440f0c6-efcf-48b5-92f0-5abd3061cb7c.png)<br />
